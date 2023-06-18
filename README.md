@@ -2,8 +2,9 @@
 This is the face recogonition part for the final year project of B.Tech (Low Cost Nursing Robot).
 
 The video source is a ESP32 AI Thinker Model camera.
+### Update Camera model and WiFi Credentials before uploading to the ESP32
 
-### Run the start_me.py file in a python shell. 
+### To start the program run the start_me.py file in a python shell. 
 
 It will run the final_code.py file every 20 seconds and update the result to the spreadsheet at https://docs.google.com/spreadsheets/d/1dd4ASj871bcvEYR3GjgOYrLAw-mNjXKCCDK-w-Hqaec/edit?usp=sharing
 
